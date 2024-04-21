@@ -1,1 +1,2 @@
-# AyoubOurimi-Projet-Strat-gies-de-gestion-de-flux-l-entr-e-d-un-un-r-seau-de-communication
+# AyoubOurimi 
+Projet Python : Stratégies de gestion de flux à l’entrée 
